@@ -1,0 +1,22 @@
+{% extends 'base/main.html' %}
+{% block content %}
+
+<div class="header-bar">
+    <h1>Přihlásit se</h1>
+</div>
+
+<div class="card-body">
+    <form method="POST">
+        {% csrf_token %}
+        {{form.as_p}}
+        <input class="button" type="submit" value="Přihlásit se">
+    </form>
+    <p>Nemáte účet? <a href="{% url 'register' %}">Registrovat se</a></p>
+</div>
+
+
+
+
+
+
+{% endblock content %}
