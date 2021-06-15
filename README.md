@@ -5,7 +5,7 @@
 https://ninjamock.com/s/2FJMRJx
 
 ### Přihlášeni do aplikace Todo
-prihlaseni_wire<img width="718" alt="prihlaseni_wire" src="https://user-images.githubusercontent.com/72737069/122119246-3e5a0500-ce29-11eb-971b-72a996be8ff6.png">
+<img width="718" alt="prihlaseni_wire" src="https://user-images.githubusercontent.com/72737069/122119246-3e5a0500-ce29-11eb-971b-72a996be8ff6.png">
 
 ### Registrace do aplikace Todo 
 registrace_wire<img width="718" alt="registrace_wire" src="https://user-images.githubusercontent.com/72737069/122119338-592c7980-ce29-11eb-9f16-ee3b8e52a02b.png">
