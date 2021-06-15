@@ -8,19 +8,18 @@ https://ninjamock.com/s/2FJMRJx
 <img width="718" alt="prihlaseni_wire" src="https://user-images.githubusercontent.com/72737069/122119246-3e5a0500-ce29-11eb-971b-72a996be8ff6.png">
 
 ### Registrace do aplikace Todo 
-registrace_wire<img width="718" alt="registrace_wire" src="https://user-images.githubusercontent.com/72737069/122119338-592c7980-ce29-11eb-9f16-ee3b8e52a02b.png">
+<img width="718" alt="registrace_wire" src="https://user-images.githubusercontent.com/72737069/122119338-592c7980-ce29-11eb-9f16-ee3b8e52a02b.png">
 
 ### Stránka, která se Vám zobrazí po registraci/přihlášení.
-po_prihlaseni_wire<img width="731" alt="po_prihlaseni_wire" src="https://user-images.githubusercontent.com/72737069/122119525-9a248e00-ce29-11eb-884e-8602e224abc0.png">
+<img width="731" alt="po_prihlaseni_wire" src="https://user-images.githubusercontent.com/72737069/122119525-9a248e00-ce29-11eb-884e-8602e224abc0.png">
 
 
 ### Okno, které se Vám zobrazí po kliknutí na Nový úkol! Přidaní nového úkolu v aplikaci Todo
-novy_ukol_wire<img width="714" alt="novy_ukol_wire" src="https://user-images.githubusercontent.com/72737069/122119792-e66fce00-ce29-11eb-8346-537254de4cbd.png">
+<img width="714" alt="novy_ukol_wire" src="https://user-images.githubusercontent.com/72737069/122119792-e66fce00-ce29-11eb-8346-537254de4cbd.png">
 
 
 ### Když chcete smazat úkol, tak kliknete na tlačítko v podobě křížku
-
-smazani_ukolu<img width="714" alt="smazani_ukolu" src="https://user-images.githubusercontent.com/72737069/122119889-07d0ba00-ce2a-11eb-8f45-f04c1a81d52f.png">
+<img width="714" alt="smazani_ukolu" src="https://user-images.githubusercontent.com/72737069/122119889-07d0ba00-ce2a-11eb-8f45-f04c1a81d52f.png">
 
 
 ## Stručný popis aplikace 
